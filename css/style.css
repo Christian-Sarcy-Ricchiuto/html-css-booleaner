@@ -1,4 +1,23 @@
+/* Genereics */
+#body {
+    margin: 0;
+}
+
+/* Utilities */
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+
+}
+
+/* Top Header */
 #top-header {
     height: 100px;
-    background-color: #4ea0ff; 
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 25%; 
+}
+#logo {
+    height: 50px;
+    margin-top: 25px;
 }
