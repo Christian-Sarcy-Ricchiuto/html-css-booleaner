@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+#h1 {
+
+    font-size: 40px
+}
 /* Utilities */
 .container{
     max-width: 1080px;
@@ -17,7 +21,7 @@
     background-size: 30%; 
 }
 
-#logo {
+#Logo {
     height: 50px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
